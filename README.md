@@ -14,7 +14,7 @@ You can view the live app here:
 https://muhammadtaaha111.github.io/Counter-App/
 
 ## 📂 How To Use
-1. Download or clone the repository:
+  1. Download or clone the repository:
    https://github.com/MuhammadTaaha111/Counter-App.git
 
   2.Open the index.html file in your browser.
